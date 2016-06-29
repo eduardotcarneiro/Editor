@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Editor()
+comment1.params=c
+comment1.target=void\ desenhar(Canvas)
+comment10.params=
+comment10.target=boolean\ isModoApagar()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=x\ y\ larg\ alt\ r\ g\ b
+comment2.target=void\ retangulo(int,\ int,\ int,\ int,\ double,\ double,\ double)
+comment3.params=cx\ cy\ raio\ r\ g\ b
+comment3.target=void\ circulo(int,\ int,\ int,\ double,\ double,\ double)
+comment4.params=x\ y
+comment4.target=void\ aperto(int,\ int)
+comment5.params=x\ y
+comment5.target=void\ arrasto(int,\ int)
+comment6.params=x\ y
+comment6.target=void\ solta(int,\ int)
+comment7.params=
+comment7.target=boolean\ isModoMover()
+comment8.params=
+comment8.target=boolean\ isModoRetangulo()
+comment9.params=
+comment9.target=boolean\ isModoCirculo()
+numComments=12

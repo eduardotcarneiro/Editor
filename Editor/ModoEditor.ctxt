@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=void\ inicio(int,\ int)
+comment1.params=x\ y
+comment1.target=void\ meio(int,\ int)
+comment2.params=x\ y
+comment2.target=void\ fim(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ tag()
+numComments=4

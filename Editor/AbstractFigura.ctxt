@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_x\ _y\ _r\ _g\ _b
+comment0.target=AbstractFigura(int,\ int,\ double,\ double,\ double)
+comment1.params=dx\ dy
+comment1.target=void\ mover(int,\ int)
+numComments=2

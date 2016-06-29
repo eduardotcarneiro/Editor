@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ larg\ alt\ r\ g\ b
+comment0.target=void\ retangulo(int,\ int,\ int,\ int,\ double,\ double,\ double)
+comment1.params=cx\ cy\ raio\ r\ g\ b
+comment1.target=void\ circulo(int,\ int,\ int,\ double,\ double,\ double)
+comment2.params=x\ y\ larg\ alt\ r\ g\ b
+comment2.target=void\ triangulo(int,\ int,\ int,\ int,\ double,\ double,\ double)
+comment3.params=cx\ cy\ r\ g\ b
+comment3.target=void\ ponto(int,\ int,\ double,\ double,\ double)
+numComments=4

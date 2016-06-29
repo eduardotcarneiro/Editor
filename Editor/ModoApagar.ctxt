@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=modelo
+comment0.target=ModoApagar(ModeloEditor)
+comment1.params=x\ y
+comment1.target=void\ inicio(int,\ int)
+comment2.params=x\ y
+comment2.target=void\ meio(int,\ int)
+comment3.params=x\ y
+comment3.target=void\ fim(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ tag()
+numComments=5

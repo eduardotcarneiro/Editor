@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=_x\ _y\ _larg\ _alt\ _r\ _g\ _b
+comment0.target=Retangulo(int,\ int,\ int,\ int,\ double,\ double,\ double)
+comment1.params=x\ y
+comment1.target=void\ outroCanto(int,\ int)
+comment2.params=mc
+comment2.target=void\ desenhar(ModeloCanvas)
+comment3.params=x\ y
+comment3.target=boolean\ dentro(int,\ int)
+numComments=4
